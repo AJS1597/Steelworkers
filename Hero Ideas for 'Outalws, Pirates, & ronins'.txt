@@ -1,0 +1,41 @@
+I've been pitching an idea since the beginning of the assignment, to add a sort of 'commander' or 'Hero' system similar to Hearthstone. For the most part, we've been focusing on creating the foundation of the game, but right now it feels like a good time to try and toss some ideas on how I think they should work.
+
+
+The main idea I want going for Heroes, is that they don't attack the opponent directly, but mainly serve as a buff for the cards within a player's deck, or stand as an obstacle, perhaps to keep them balanced, once their ability is used up- they are immediately discarded, as to not overcomplicate the player. Think of it like a trump card, you use for situations where you need to dig yourself out of a bad spot.
+
+No cost
+One time use
+Cannot affect the opponent directly, only their minions and their own.
+
+
+These Heroes leave the fighting to the minions, while operating with skills under the battlefield.
+
+
+Samurai
+Miyamoto Masashi, "An undefeated duelist..."
+When one of the opponent's minion is about to deal damage directly, this card activates to defeat the selected Minion. Only one Minion can be called out to a duel.
+
+
+
+Date Masamune 'The iconic "One-Eyed Dragon," known for his crescent-moon helmet and aggressive campaigns in northern Japan.' 
+When this card's ability is deployed, any minions that do not have synergy/ (ying-yang) are automatically attuned to the damage of the opponents minion Infront of them. 
+
+Cowboys
+Ned Kelly ' Infamous Armored Australian Bushranger' 
+When this card is deployed on the board, the player's minions automatically get a +2 to armor for the duration of this turn. 
+
+Wyatt Earp 'Legendary Lawman and central figure in the Gunfight at the O.K'
+When this card is deployed onto the board, any card with the wrangle trait automatically draws 2, to the bounty/hire pool.
+
+Pirates
+Bartholomew Roberts, 'Often considered the most successful pirate of the era, capturing over 400 ships'
+Any card defeated this round, will generate a bonus of 2 to the hire pool.
+
+
+Blackbeard 'One of the most notorious captains of the Golden age of piracy, known for his thick black beard and theatrical intimidation tactics'. 
+When this card is deployed, picking any minion that has taken damage previously is automatically scared off the player's board.
+
+
+These are just a couple of ideas I wanted to pitch in, and use for later if anyone has any thoughts. They may not be the best- but it's some room for thought if we ever decide to play with the idea of Hero characters.
+
+
