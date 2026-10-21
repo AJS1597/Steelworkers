@@ -1,4 +1,4 @@
-When your life drops to or below 15, 10, or five, you can draw a card from the special deck, which consists of five cards you choose before the game.
+When your life drops to or below fifteen, ten, or five, you can draw a card from the special deck, which consists of five cards you choose before the game.
 Special cards have no allegiances and can be used in any faction. Below are ten starting special cards for players to use.
 Special cards are free to use.
 Set 1: Grief
